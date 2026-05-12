@@ -10,7 +10,7 @@ Proyek ini difokuskan pada analisis data terkait pengembangan platform *microlea
 2.  **Keterampilan Berbicara**: Kompetensi verbal mahasiswa dalam konteks akademis/praktis.
 
 ## Struktur Direktori
-*   `penjumlahan.ipynb`: Contoh awal notebook untuk pengujian alur data.
+*   `olahdata.ipynb`: Contoh awal notebook untuk pengujian alur data.
 *   `.ssh/`: (Direktori lokal) Berisi kunci SSH untuk akses repositori (diabaikan oleh git).
 
 ## Cara Penggunaan
