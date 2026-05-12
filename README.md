@@ -10,7 +10,14 @@ Proyek ini difokuskan pada analisis data terkait pengembangan platform *microlea
 2.  **Keterampilan Berbicara**: Kompetensi verbal mahasiswa dalam konteks akademis/praktis.
 
 ## Struktur Direktori
-*   `olahdata.ipynb`: Contoh awal notebook untuk pengujian alur data.
+*   `data/`:
+    *   `raw/`: Data mentah hasil penelitian (CSV/Excel).
+    *   `processed/`: Data yang telah dibersihkan dan siap dianalisis.
+*   `exports/`:
+    *   `plots/`: Grafik dan visualisasi hasil analisis.
+    *   `reports/`: Hasil ekspor analisis (PDF/HTML).
+*   `docs/`: Dokumen pendukung penelitian atau instrumen.
+*   `olahdata.ipynb`: Notebook utama untuk proses analisis.
 *   `.ssh/`: (Direktori lokal) Berisi kunci SSH untuk akses repositori (diabaikan oleh git).
 
 ## Cara Penggunaan
